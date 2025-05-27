@@ -1,7 +1,7 @@
-# **Tugas 2 - Pengembangan Machine Learning**
+# **Tugas 2**
 
 
-📌 **Deskripsi Tugas**  
+**Deskripsi Tugas**  
 
 Buatlah halaman web yang menjelaskan sebuah topik tertentu (misalnya, *"Pengenalan Machine Learning"*) minimal **500 kata** dengan menggunakan:
 
@@ -13,15 +13,14 @@ Buatlah halaman web yang menjelaskan sebuah topik tertentu (misalnya, *"Pengenal
 - `st.latex` → untuk menampilkan rumus matematika  
 
 
-## **Tampilan Beranda**
+## **Beranda**
 ![image](https://github.com/user-attachments/assets/7eb69ee7-ba9a-48c9-8771-d203c8795cc1)
 
-## **Tampilan Contoh Pertemuan 2**
+## **Contoh Pertemuan 2**
 ![image](https://github.com/user-attachments/assets/5e05430f-3013-4ae5-9a64-4b8fe3862ac3)
 
-## **Tampilan Latihan Pertemuan 2**
+## **Latihan Pertemuan 2**
 ![image](https://github.com/user-attachments/assets/3b38429a-db9e-42a9-bc07-ec58192a6845)
 
-## **Tampilan Tugas Pertemuan 2**
+## **Tugas Pertemuan 2**
 ![image](https://github.com/user-attachments/assets/5205c51d-8944-4647-966f-c019250be052)
-
