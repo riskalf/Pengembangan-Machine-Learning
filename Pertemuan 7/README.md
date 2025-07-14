@@ -10,7 +10,7 @@
 
 
 ## **Beranda**
-![image](https://github.com/user-attachments/assets/ac0f0207-f5ae-4b8c-a1d5-fcc7ee9c43b8)
+<img width="1155" height="615" alt="image" src="https://github.com/user-attachments/assets/4d0b9674-23b1-4aa7-863e-783811865835" />
 
 ## **Contoh Pertemuan 7**
 ![image](https://github.com/user-attachments/assets/30c46525-d367-4b04-a59f-5975e57585b7)
@@ -19,8 +19,9 @@
 ![image](https://github.com/user-attachments/assets/b1789e05-d8f2-48d1-856c-fe28b85a5325)
 
 ## **Tugas Pertemuan 7**
-![image](https://github.com/user-attachments/assets/b3fd0644-7857-4f53-b506-3410b29dd1de)
-![image](https://github.com/user-attachments/assets/0c4643a6-3a1b-4de0-ac38-387bfc42f192)
-![image](https://github.com/user-attachments/assets/83b3f853-71f7-4bc8-a007-7cd5609f0fb9)
-![image](https://github.com/user-attachments/assets/20ee131a-6281-4262-b856-70672d2132d0)
-![image](https://github.com/user-attachments/assets/35f797eb-b8f9-42f6-9c3f-ae4a92cd0290)
+<img width="1276" height="425" alt="image" src="https://github.com/user-attachments/assets/933767ce-a58b-4015-a5ee-f96526eeedda" />
+<img width="1290" height="626" alt="image" src="https://github.com/user-attachments/assets/2542acd1-3435-4dcc-8dcd-49f9cdc45800" />
+<img width="1315" height="530" alt="image" src="https://github.com/user-attachments/assets/111df30f-391a-4618-92c8-81332c0b8f64" />
+<img width="1307" height="459" alt="image" src="https://github.com/user-attachments/assets/bbad6326-090a-4c40-8d2b-ccaf3e60512d" />
+<img width="1315" height="619" alt="image" src="https://github.com/user-attachments/assets/9c5e17e2-41b7-4455-b864-eca65678bbdd" />
+
