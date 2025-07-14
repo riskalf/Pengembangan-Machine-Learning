@@ -19,7 +19,7 @@
 ![image](https://github.com/user-attachments/assets/b1789e05-d8f2-48d1-856c-fe28b85a5325)
 
 ## **Tugas Pertemuan 7**
-<img width="1276" height="425" alt="image" src="https://github.com/user-attachments/assets/933767ce-a58b-4015-a5ee-f96526eeedda" />
+<img width="1274" height="173" alt="image" src="https://github.com/user-attachments/assets/129d9683-a8ae-45f5-ad0a-390ebdb59029" />
 <img width="1290" height="626" alt="image" src="https://github.com/user-attachments/assets/2542acd1-3435-4dcc-8dcd-49f9cdc45800" />
 <img width="1315" height="530" alt="image" src="https://github.com/user-attachments/assets/111df30f-391a-4618-92c8-81332c0b8f64" />
 <img width="1307" height="459" alt="image" src="https://github.com/user-attachments/assets/bbad6326-090a-4c40-8d2b-ccaf3e60512d" />
