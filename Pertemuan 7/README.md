@@ -12,11 +12,12 @@
 ## **Beranda**
 <img width="1155" height="615" alt="image" src="https://github.com/user-attachments/assets/4d0b9674-23b1-4aa7-863e-783811865835" />
 
-## **Contoh Pertemuan 7**
-![image](https://github.com/user-attachments/assets/30c46525-d367-4b04-a59f-5975e57585b7)
-
 ## **Latihan Pertemuan 7**
-![image](https://github.com/user-attachments/assets/b1789e05-d8f2-48d1-856c-fe28b85a5325)
+<img width="1189" height="578" alt="image" src="https://github.com/user-attachments/assets/4a83f216-e524-4e7f-81cc-fa6561a23d6e" />
+<img width="1082" height="589" alt="image" src="https://github.com/user-attachments/assets/5c82c9a4-1734-4fbf-9737-d67a922966a6" />
+<img width="1110" height="507" alt="image" src="https://github.com/user-attachments/assets/f9d2c7ab-df78-4453-b614-0d66e2be587f" />
+<img width="1120" height="545" alt="image" src="https://github.com/user-attachments/assets/79cb9466-26c9-4559-9196-206b6a0c1e98" />
+
 
 ## **Tugas Pertemuan 7**
 <img width="1274" height="173" alt="image" src="https://github.com/user-attachments/assets/129d9683-a8ae-45f5-ad0a-390ebdb59029" />
